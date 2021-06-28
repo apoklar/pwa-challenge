@@ -14,4 +14,4 @@ In the image below, some funds were added to the budget tracker and a graph was 
 
 This application was created by Andrea Poklar.
 
-Github: github.com/apoklar
+Github: https://github.com/apoklar/
